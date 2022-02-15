@@ -1,0 +1,14 @@
+{
+    "name": "manaftryzens/test-composer-compatibility",
+    "description": "Testing composer compatibility issues with packagist",
+    "version": "1.1.4",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Manaf\\Test\\": ""
+        }
+    }
+}
